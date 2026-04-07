@@ -1,10 +1,8 @@
-# Hola, soy Alex Barrientos 👋
-
 Ingeniero en Informática · Desarrollador Web & Backend · Puerto Montt, Chile
 
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -18,8 +16,6 @@ Ingeniero en Informática · Desarrollador Web & Backend · Puerto Montt, Chile
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-bq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-bq&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
@@ -27,14 +23,14 @@ Ingeniero en Informática · Desarrollador Web & Backend · Puerto Montt, Chile
 
 ---
 
-### 💼 Proyecto destacado
+### Proyecto destacado
 
 **🐟 [PST — Sistema de Gestión de Producción](https://github.com/alex-bq/PST)**
 Sistema web interno desarrollado para una planta de proceso de salmón. Incluye registro de planillas por turno, seguimiento de proceso, cálculo de rendimiento y sistema de roles. Desarrollado con PHP, Laravel y SQL Server.
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-barrientos-733a53295)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexbq520@gmail.com)
