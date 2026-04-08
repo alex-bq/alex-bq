@@ -1,4 +1,4 @@
-Ingeniero en Informática ·  Desarrollador de Software Junior · Puerto Montt, Chile
+Ingeniero en Informática ·  Desarrollador de Software Junior 
 ---
 
 Soy Ingeniero en Informática con experiencia en desarrollo backend y sistemas web utilizados en entornos productivos reales.  
