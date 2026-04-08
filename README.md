@@ -1,4 +1,10 @@
 Ingeniero en Informática ·  Desarrollador de Software Junior · Puerto Montt, Chile
+---
+
+Soy Ingeniero en Informática con experiencia en desarrollo backend y sistemas web utilizados en entornos productivos reales.  
+He trabajado en aplicaciones internas con manejo de roles, reportería, lógica de negocio y bases de datos relacionales, principalmente usando **PHP, Laravel y SQL Server**.
+
+Actualmente estoy enfocado en seguir creciendo como desarrollador, fortaleciendo proyectos orientados a **backend, software empresarial y sistemas de gestión**.
 
 ---
 
@@ -26,3 +32,9 @@ Ingeniero en Informática ·  Desarrollador de Software Junior · Puerto Montt, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-barrientos-733a53295)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexbq520@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__aleex_b)
+
+## Actualmente
+
+- Mejorando mi portafolio técnico
+- Fortaleciendo proyectos orientados a backend
+- Buscando oportunidades como **Desarrollador de Software Junior**
