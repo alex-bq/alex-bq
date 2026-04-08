@@ -1,4 +1,4 @@
-Ingeniero en Informática · Desarrollador Web & Backend · Puerto Montt, Chile
+Ingeniero en Informática ·  Desarrollador de Software Junior · Puerto Montt, Chile
 
 ---
 
@@ -15,19 +15,10 @@ Ingeniero en Informática · Desarrollador Web & Backend · Puerto Montt, Chile
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-bq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-bq&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-bq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-bq&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
----
-
-### Proyecto destacado
-
-**🐟 [PST — Sistema de Gestión de Producción](https://github.com/alex-bq/PST)**
-Sistema web interno desarrollado para una planta de proceso de salmón. Incluye registro de planillas por turno, seguimiento de proceso, cálculo de rendimiento y sistema de roles. Desarrollado con PHP, Laravel y SQL Server.
-
 ---
 
 ### Contacto
