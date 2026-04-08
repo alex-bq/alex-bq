@@ -8,8 +8,6 @@ Actualmente estoy enfocado en seguir creciendo como desarrollador, fortaleciendo
 
 ---
 
-### 🛠️ 
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,12 +18,6 @@ Actualmente estoy enfocado en seguir creciendo como desarrollador, fortaleciendo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-bq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-bq&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
----
 
 ### Contacto
 
@@ -33,7 +25,7 @@ Actualmente estoy enfocado en seguir creciendo como desarrollador, fortaleciendo
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexbq520@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__aleex_b)
 
-## Actualmente
+### Actualmente
 
 - Mejorando mi portafolio técnico
 - Fortaleciendo proyectos orientados a backend
